@@ -3,7 +3,7 @@
 ### Bioinformatics Researcher · Cancer Genomics · Machine Learning
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
-[![DOI](https://img.shields.io/badge/DOI-10.32350%2Fcto.61.03-blue)](https://doi.org/10.32350/cto.61.03)
+
 ## About Me
 Gold medallist BS Bioinformatics graduate, currently completing an MPhil in Bioinformatics at Hazara University Mansehra under Dr. Ashfaq Ahmad. First-author published researcher working at the intersection of cancer genomics, computational biology, and machine learning.
 
@@ -20,8 +20,8 @@ Gold medallist BS Bioinformatics graduate, currently completing an MPhil in Bioi
 
 ### About Me
 
-- 🎓 Gold medallist, **BS Bioinformatics** (CGPA 3.61/4.00)
-- 🔬 MPhil Bioinformatics, **Hazara University Mansehra** — thesis submitted, awaiting defense
+- 🎓 Gold medallist, **BS Bioinformatics**
+- 🔬 MPhil Bioinformatics, **Hazara University Mansehra** thesis submitted, awaiting defense
 - 🧬 Research interests: **cancer genomics · machine learning for biological data · protein structure prediction**
 - 📫 Reach me at **[wajiawan276h@gmail.com]**
 
@@ -31,7 +31,7 @@ Gold medallist BS Bioinformatics graduate, currently completing an MPhil in Bioi
 
 **🧬 NPC Therapeutic Target Identification** — *Published*
 Analyzed GEO dataset GSE53819 (18 NPC tumors vs. 18 normal tissue) using GEO2R, CPA enrichment (Wilcoxon/FGSEA/KS consensus), and STRING/Cytoscape (CytoHubba, MCC) to identify 10 hub genes, revealing two cooperating oncogenic modules: an inflammatory cytokine-chemokine axis (IL1B-CXCL8-CXCL12) and an ECM remodeling axis (FN1-COL1A1).
-[View repository →]
+
 
 **🧠 BMI Effects on Endocrine Signatures in PCOS** — *MPhil thesis, submitted*
 Applied Random Forest, clustering, and statistical methods (Spearman correlation, linear/multivariable regression, Mann-Whitney U) to a 508-patient dataset. ROC-AUC 0.927 vs. 0.769 lifestyle-only baseline; lateralised right-ovary effect confirmed (β = −0.128, p = 0.024).
