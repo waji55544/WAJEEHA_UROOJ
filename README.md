@@ -27,7 +27,7 @@ Analyzed the GEO dataset GSE53819 (18 NPC tumors vs. 18 normal tissue) to identi
 ### 🧠 Computational Assessment of BMI Effects on Endocrine Signatures in PCOS
 **MPhil thesis, in progress**
 
-Applied Random Forest classification and clustering to a cross-sectional dataset of 508 women from fertility clinics in Kerala, India, to characterize how BMI relates to hormonal and reproductive markers in polycystic ovary syndrome. The Random Forest model reached an ROC-AUC of 0.927, compared to 0.769 for a lifestyle-only baseline. Right antral follicle count emerged as the top feature by importance, with a statistically supported lateralised right-ovary effect (p = 0.024).
+Applied Random Forest classification, clustering, and statistical methods (Spearman correlation, linear/multivariable regression, Mann-Whitney U test) to a 508-patient PCOS dataset from fertility clinics in Kerala, India. Random Forest reached ROC-AUC 0.927 (vs. 0.769 lifestyle-only baseline); right antral follicle count was the top predictive feature, with a statistically supported lateralised right-ovary effect (β = −0.128, p = 0.024).
 
 
 ### 🐍 In Silico Characterization of Snake Venom-Derived Anticancer Peptides
@@ -41,4 +41,3 @@ Python, R, machine learning (Random Forest, clustering), protein language models
 ## Contact
 
 wajiawan276h@gmail.com
-[LinkedIn link]
