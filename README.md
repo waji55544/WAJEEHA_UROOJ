@@ -4,10 +4,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
 [![DOI](https://img.shields.io/badge/DOI-10.32350%2Fcto.61.03-blue)](https://doi.org/10.32350/cto.61.03)
-
+## About Me
 Gold medallist BS Bioinformatics graduate, currently completing an MPhil in Bioinformatics at Hazara University Mansehra under Dr. Ashfaq Ahmad. First-author published researcher working at the intersection of cancer genomics, computational biology, and machine learning.
 
-> *"Every dataset hides a mechanism — bioinformatics is how we go looking for it."*
+> *"Computational biologist. Still curious about the same question that got me here: what is the data actually telling us?"*
 
 ---
 
