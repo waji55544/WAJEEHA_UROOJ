@@ -1,4 +1,4 @@
-# Hi, I'm Wajeeha Urooj
+<div align="center"> # Hi, I'm Wajeeha Urooj
 ### Bioinformatics Researcher · Cancer Genomics · Machine Learning
 
 <div align="center">
