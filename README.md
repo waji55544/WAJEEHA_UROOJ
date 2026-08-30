@@ -3,6 +3,7 @@
 ### Bioinformatics Researcher · Cancer Genomics · Machine Learning
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
+[![DOI](https://img.shields.io/badge/DOI-10.32350%2Fcto.61.03-blue)](https://journals.umt.edu.pk/index.php/CTO/article/view/7696)
 
 ## About Me
 Gold medallist BS Bioinformatics graduate, currently completing an MPhil in Bioinformatics at Hazara University Mansehra under Dr. Ashfaq Ahmad. First-author published researcher working at the intersection of cancer genomics, computational biology, and machine learning.
@@ -14,8 +15,7 @@ Gold medallist BS Bioinformatics graduate, currently completing an MPhil in Bioi
 ### 📄 Published Research
 
 **Identification and Elucidation of Therapeutic Targets in Nasopharyngeal Carcinoma: A Computational Approach**
-*Current Trends in OMICS, 6(1), 40-63 (2026)* · [DOI: 10.32350/cto.61.03](https://doi.org/10.32350/cto.61.03)
-
+*Current Trends in OMICS, 6(1), 40-63 (2026)* · [![DOI](https://img.shields.io/badge/DOI-10.32350%2Fcto.61.03-blue)](https://journals.umt.edu.pk/index.php/CTO/article/view/7696)
 ---
 
 ### About Me
