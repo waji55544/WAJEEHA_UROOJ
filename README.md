@@ -1,7 +1,7 @@
-<div align="center"> # Hi, I'm Wajeeha Urooj
+# Hi, I'm Wajeeha Urooj
 ### Bioinformatics Researcher · Cancer Genomics · Machine Learning
 
-<div align="center">
+<div align="center"> 
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
 [![DOI](https://img.shields.io/badge/DOI-10.32350%2Fcto.61.03-blue)](https://journals.umt.edu.pk/index.php/CTO/article/view/7696)
