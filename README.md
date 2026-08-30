@@ -1,5 +1,5 @@
 # Hi, I'm Wajeeha Urooj
-### Bioinformatics Researcher · Cancer Genomics · Machine Learning
+### Bioinformatics Researcher 
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
