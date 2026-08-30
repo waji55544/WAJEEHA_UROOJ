@@ -45,7 +45,7 @@ Used ESM-2 protein language model embeddings and K-means clustering, followed by
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajeeha-urooj-527a73206?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajeeha-urooj-527a73206?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
 ---
 
