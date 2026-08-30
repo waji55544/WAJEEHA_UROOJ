@@ -51,9 +51,9 @@ Used ESM-2 protein language model embeddings and K-means clustering, followed by
 
 ### 🛠️ Languages & Tools
 
-[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
-[![r](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)](https://www.r-project.org/)
-[![jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg)](https://jupyter.org)
-[![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Bioinformatics & ML pipeline:** Random Forest & Clustering · ESM-2 Protein Language Models · Boltz-2 Structural Prediction · GEO2R · STRING / Cytoscape (CytoHubba) · GO & KEGG Enrichment (CPA, DAVID) · Spearman/Regression Statistics, Man Whitney U test
+**Bioinformatics & ML pipeline:** Random Forest & Clustering · ESM-2 Protein Language Models · Boltz-2 Structural Prediction · GEO2R · STRING / Cytoscape (CytoHubba) · GO & KEGG Enrichment (CPA, DAVID) · Spearman/Regression Statistics
